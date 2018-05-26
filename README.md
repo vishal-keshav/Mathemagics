@@ -1,0 +1,2 @@
+# Mathemagics
+Mathematics is magic!
